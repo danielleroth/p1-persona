@@ -1,6 +1,6 @@
 /* Your Website Styles */
 body {
-	background-image: url('../img/grunge1.png');
+	background-image: url('../img/grunge2.jpg');
 	color: #999;
 }
 
@@ -16,25 +16,18 @@ img {
 	max-width: 100%;
 }
 
+p {
+	text-align: right;
+	margin: 60px 60px;
 
-#wrapper {
-	max-width: 940px;
-	margin: 0 auto;
-	padding: 0 5%;
 }
 
-#logo {
-	text-align: center;
-	margin: 0;
-}
 
 h1 {
-	font-family: 'Raleway', sans-serif;
-	margin: 0px 0;
+	font-family: 'Playfair Display', sans-serif;
 	font-size: 7em;
 	font-weight: normal;
-	line-height: 0.8em;
-	padding-top: 18px;
+	float: left;
 }
 
 header{
@@ -46,12 +39,10 @@ header{
 }
 
 h2 {
-	font-family: 'Poiret One', sans-serif;
+	font-family: 'Abel', sans-serif;
 	font-size: 2em;
-	margin: -5px 0 0;
-	font-weight: normal;
-	padding: 10px 0;
 	color: #FFFFFF;
+	float: left;
 }
 
 /*NAVIGATION*/
@@ -66,7 +57,7 @@ nav {
 
 
 h1 {
-	color: #99FFCC;
+	color: #E62E00;
 }
 
 
@@ -141,7 +132,9 @@ h3 {
 }
 
 
-
+footer {
+	bottom-margin: 80px;
+}
 
 
 
