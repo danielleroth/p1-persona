@@ -7,17 +7,13 @@ body {
 /*HEADER*/
 
 
-a {
-	text-decoration: none;
-	color: #313A3A;
-}
 
 img {
 	max-width: 100%;
 }
 
 p {
-	text-align: right;
+	text-align: left;
 	margin: 60px 60px;
 
 }
@@ -26,31 +22,20 @@ p {
 h1 {
 	font-family: 'Playfair Display', sans-serif;
 	font-size: 7em;
+	margin-bottom: -5px;
 	font-weight: normal;
-	float: left;
+	text-align: center;
 }
 
-header{
-	
-	margin: 0 0 30px 0;
-	padding: 5px 0 0 0;
-	width: 100%;
-
-}
 
 h2 {
 	font-family: 'Abel', sans-serif;
+	margin-top: -5px;
 	font-size: 2em;
 	color: #FFFFFF;
-	float: left;
+	text-align: center;
 }
 
-/*NAVIGATION*/
-nav {
-	text-align: center;
-	padding: 10px 0;
-	margin: 20px 0 0;
-}
 
 
 
@@ -63,77 +48,6 @@ h1 {
 
 body {
 	font-family: 'Abel', sans-serif;
-}
-
-h3 {
-	margin: 0 0 1em 0;
-}
-
-
-footer {
-	font-size: .8em;
-	text-align: center;
-	clear: both;
-	padding-top: 50px;
-}
-
-
-
-.social-icon {
-	width: 30px;
-	height: 30px;
-	margin: 0 5px;
-}
-
-
-/*Page: About*/
-
-.profile-photo {
-	display: block;
-	max-width: 400px;
-	margin: 0 auto 30px;
-	border-radius: 25%;
-}
-
-h3 {
-	font-weight: 85px;
-	color: black;
-}
-
-
-/*Page:Contact*/
-.contact-info {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-	font-size: 0.9em;
-}
-
-.contact-info a {
-	display: block;
-	min-height: 20px;
-	background-repeat: no-repeat;
-	background-size: 20px 20px;
-	padding: 0 0 0 25px;
-	margin: 0 0 8px;
-}
-
-
-
-.contact-info li.phone a {
-	background-image: url('../img/phone.png');
-}
-
-.contact-info li.mail a {
-	background-image: url('../img/mail.png');
-}
-.contact-info li.twitter a {
-	background-image:url('../img/twitter.png');
-}
-
-
-footer {
-	bottom-margin: 80px;
 }
 
 
