@@ -21,19 +21,21 @@ p {
 
 h1 {
 	font-family: 'Playfair Display', sans-serif;
+	margin-left: 60px;
 	font-size: 7em;
 	margin-bottom: -5px;
 	font-weight: normal;
-	text-align: center;
+	text-align: left;
 }
 
 
 h2 {
 	font-family: 'Abel', sans-serif;
 	margin-top: -5px;
+	margin-left: 60px;
 	font-size: 2em;
 	color: #FFFFFF;
-	text-align: center;
+	text-align: left;
 }
 
 
