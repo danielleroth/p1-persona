@@ -9,13 +9,8 @@ body {
 
 
 img {
-	max-width: 100%;
-}
-
-p {
-	text-align: left;
-	margin: 60px 60px;
-
+	max-width: 80%;
+    margin: auto 50px;
 }
 
 
